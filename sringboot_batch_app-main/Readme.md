@@ -1,21 +1,20 @@
 # Customer Data Batch Processing with Spring #
 
-Spring Batch:Used for batch processing.
-Spring Data JPA:
-Used for data access using JPA.
-Spring Boot:Framework for building Spring applications.
-MySQL Database:Database for storing customer data.
-Lombok:Used for reducing boilerplate code.
-RESTful Web Service:Provides an endpoint for triggering data import.
-Spring MVC:Used for building RESTful web services.
-JDBC:Java Database Connectivity for database interactions.
-TaskExecutor:Enables parallel processing in Spring Batch.
-CSV File:Source data for customer information.
-Maven:Build and dependency management tool.
-Hibernate:ORM framework for JPA.
-Spring Data JPA Repository:Interface for database operations.
-Spring Boot Application:Main application class for Spring Boot.
-Embedded Web Server:Server for running the Spring Boot application.
+Spring Batch:Used for batch processing.     
+Spring Data JPA:Used for data access using JPA.     
+Spring Boot:Framework for building Spring applications.     
+MySQL Database:Database for storing customer data.      
+Lombok:Used for reducing boilerplate code.      
+RESTful Web Service:Provides an endpoint for triggering data import.     
+Spring MVC:Used for building RESTful web services.     
+JDBC:Java Database Connectivity for database interactions.     
+TaskExecutor:Enables parallel processing in Spring Batch.     
+CSV File:Source data for customer information.     
+Maven:Build and dependency management tool.     
+Hibernate:ORM framework for JPA.     
+Spring Data JPA Repository:Interface for database operations.    
+Spring Boot Application:Main application class for Spring Boot.     
+Embedded Web Server:Server for running the Spring Boot application.     
 
 
 
