@@ -19,6 +19,7 @@ Embedded Web Server:Server for running the Spring Boot application.
 
 
 
+![image](https://github.com/satyamjaysawal/Spring-Boot-Spring-Batch-Processing-Projects/assets/108862706/ee72d8f3-4c02-4697-8d57-7679f5308600)
 
 
 ![image](https://github.com/satyamjaysawal/Spring-Boot-Spring-Batch-Processing-Projects/assets/108862706/b6e739e1-cb32-4b17-8508-f832f4a8653f)
