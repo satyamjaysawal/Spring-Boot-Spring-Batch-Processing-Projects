@@ -16,7 +16,7 @@ Schema Initialization: Initialize database schema using Spring Batch.
 Java 8 Lambdas: Used for concise code, especially in item processors.     
 Maven: Project management and build tool.     
 
-![image](https://github.com/satyamjaysawal/Spring-Boot-Spring-Batch-Processing-Projects/assets/108862706/8dcef1d5-6a3e-41a4-9c66-c28cdb430bc0)
+![image](https://github.com/satyamjaysawal/Spring-Boot-Spring-Batch-Processing-Projects/assets/108862706/8dcef1d5-6a3e-41a4-9c66-c28cdb430bc0)      
 ![image](https://github.com/satyamjaysawal/Spring-Boot-Spring-Batch-Processing-Projects/assets/108862706/b0439d2d-017f-4d76-a296-15ea76c5a9ef)
 
 ![image](https://github.com/satyamjaysawal/Spring-Boot-Spring-Batch-Processing-Projects/assets/108862706/f7b25412-0403-4112-92d1-7f3fc778d0dc)
