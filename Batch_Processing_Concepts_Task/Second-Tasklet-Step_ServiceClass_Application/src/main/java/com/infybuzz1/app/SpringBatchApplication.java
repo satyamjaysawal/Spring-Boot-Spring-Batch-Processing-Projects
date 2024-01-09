@@ -7,7 +7,7 @@ import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
 @EnableBatchProcessing
-@ComponentScan({"com.infybuzz.config","com.infybuzz.service"})
+@ComponentScan({"com.infybuzz1.config","com.infybuzz1.service"})
 public class SpringBatchApplication {
 
 	public static void main(String[] args) {
